@@ -1,4 +1,4 @@
-# Social-Engineering-attack
+# Social-Engineering-toolkit
 This is a typical workflow used in security audits and penetration testing to assess an organization's vulnerability to social engineering.
 The provided images illustrate a demonstration of a **Credential Harvester Attack** using the **Social-Engineer Toolkit (SET)**, a penetration testing framework.
 
